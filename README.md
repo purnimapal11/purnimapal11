@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey, I’m Purnima  
 
-<!--
-**purnimapal11/purnimapal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Engineer · ML Explorer · Future Product Strategist  
+Currently a Master’s student in Computer Science (MPCS) @ **University of Chicago**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Build **intelligent systems** → simulation, automation, and data-driven insights  
+- Experiment with **ML models** that solve real-world problems  
+- Think at the **intersection of data + product strategy**  
+
+---
+
+### 🔬 Featured Projects  
+🌱 **Plant Disease Detection**  
+> CNN + Focal Loss + ResNet → Boosted accuracy from 78% → **92%** on 50k+ image dataset  
+*(Practical edge: early detection saves yield + farmers’ time)*  
+
+🌾 **Crop Forecasting with SARIMA**  
+> Forecasted crop yield cycles using NDVI vegetation data + SARIMA  
+*(Because forecasting food is cooler than forecasting stock prices 🌽)*  
+
+---
+
+### 🛠️ Toolbox
+`Python` · `TensorFlow` · `Keras` · `Scikit-learn` · `SystemC`  
+`Pandas` · `SQL` · `Docker` · `Spring Boot` · `OpenCV`  
+
+---
+
+### ✨ Currently
+- Exploring **AI/ML** and product strategy at UChicago  
+- Seeking opportunities to **build, learn, and impact** (Summer ’26 internships 👀)  
+
+---
+
+### 🌐 Let’s Connect
+[LinkedIn](https://linkedin.com/in/purnimapal) · [GitHub](https://github.com/purnimapal11) · [Email](mailto:palpurnima1112@gmail.com)  
+
+---
+
+📌 *Fun fact: I treat my projects like products. If they don’t solve a real problem, they don’t make the cut.*  
+
