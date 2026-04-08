@@ -38,7 +38,5 @@ Currently a Master’s student in Computer Science (MPCS) @ **University of Chic
 ### 🌐 Let’s Connect
 [LinkedIn](https://linkedin.com/in/purnimapal) · [GitHub](https://github.com/purnimapal11) · [Email](mailto:palpurnima1112@gmail.com)  
 
----
 
-📌 *Fun fact: I treat my projects like products. If they don’t solve a real problem, they don’t make the cut.*  
 
