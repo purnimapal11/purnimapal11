@@ -6,7 +6,7 @@ Currently a Master’s student in Computer Science (MPCS) @ **University of Chic
 ---
 
 ### 🚀 What I Do
-- Build **intelligent systems** → simulation, automation, and data-driven insights  
+- Build **intelligent systems** -> simulation, automation, and data-driven insights  
 - Experiment with **ML models** that solve real-world problems  
 - Think at the **intersection of data + product strategy**  
 
