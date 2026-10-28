@@ -31,7 +31,7 @@ Currently a Master’s student in Computer Science (MPCS) @ **University of Chic
 
 ### ✨ Currently
 - Exploring **AI/ML** and product strategy at UChicago  
-- Seeking opportunities to **build, learn, and impact** (Summer ’26 internships 👀)  
+- Seeking opportunities to **build, learn, and impact** (Full time roles 👀)  
 
 ---
 
